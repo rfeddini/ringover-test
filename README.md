@@ -1,5 +1,5 @@
 
-# Ringover Mobile App - Test Cases
+# Ringover Mobile App
 
 ## Login Feature
 
