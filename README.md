@@ -84,3 +84,45 @@
 
 ---
 
+
+
+
+
+## Running Appium Tests with Mocha
+
+This guide walks you through the setup and execution of Appium tests for a mobile application using Mocha as the testing framework.
+
+### Prerequisites:
+
+1. **Node.js and npm**: Ensure that Node.js and npm are installed .
+
+2. **Appium**: Make sure Appium is installed. If not :
+   
+npm install -g appium
+
+In my case testing with Andoird : 
+
+3. **Android SDK**
+
+4. **UiAutomator2**
+
+### Initial Setup:
+
+1. **Install Dependencies**:
+   
+npm install
+
+2. **Configure Capabilitie**s:
+Create or modify capabilities.json, with appropriate values for your setup.
+
+2. **Start Appium Server**:
+
+appium
+
+### Running Tests:
+
+1. **Execute Test Scripts**:
+Before performing any of the following steps, ensure that you are in the main project directory
+mocha __test__/login.test.js        
+
+
