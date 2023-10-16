@@ -84,6 +84,10 @@
 
 ---
 
+---
+
+---
+
 
 
 
@@ -102,9 +106,9 @@ npm install -g appium
 
 In my case testing with Andoird : 
 
-3. **Android SDK**
+3. **Android SDK Platform-Tools **
 
-4. **UiAutomator2**
+4. **UiAutomator2 Driver**
 
 ### Initial Setup:
 
