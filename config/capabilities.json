@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "1C221FDF600DPY",
+  "appium:platformVersion": "13",
+  "appium:app": "./resources/ringover.apk",
+  "appium:automationName": "UiAutomator2"
+}
