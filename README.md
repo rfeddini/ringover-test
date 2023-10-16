@@ -9,7 +9,7 @@
   1. Open Ringover app.
   2. Enter a valid email and password.
   3. Click on the Login button.
-- **Expected Result:** User is successfully logged in and taken to the main dashboard or homepage.
+- **Expected Result:** User is successfully logged in.
 
 ---
 
@@ -122,7 +122,7 @@ appium
 ### Running Tests:
 
 1. **Execute Test Scripts**:
-Before performing any of the following steps, ensure that you are in the main project directory
+Before performing any of the following steps, ensure that you are in the main project directory then : 
 mocha __test__/login.test.js        
 
 
